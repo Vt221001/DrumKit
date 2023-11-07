@@ -27,97 +27,97 @@ function makeSound(key) {
 
   switch (key) {
     case "w":
-      var tom1 = new Audio("sounds/tom-1.mp3");
+      var tom1 = new Audio("tom-1.mp3");
       tom1.play();
       break;
 
     case "a":
-      var tom2 = new Audio("sounds/tom-2.mp3");
+      var tom2 = new Audio("tom-2.mp3");
       tom2.play();
       break;
 
     case "s":
-      var tom3 = new Audio('sounds/tom-3.mp3');
+      var tom3 = new Audio('tom-3.mp3');
       tom3.play();
       break;
 
     case "d":
-      var tom4 = new Audio('sounds/tom-4.mp3');
+      var tom4 = new Audio('tom-4.mp3');
       tom4.play();
       break;
 
     case "j":
-      var snare = new Audio('sounds/snare.mp3');
+      var snare = new Audio('snare.mp3');
       snare.play();
       break;
 
     case "k":
-      var crash = new Audio('sounds/crash.mp3');
+      var crash = new Audio('crash.mp3');
       crash.play();
       break;
 
     case "l":
-      var kick = new Audio('sounds/kick-bass.mp3');
+      var kick = new Audio('kick-bass.mp3');
       kick.play();
       break;
       
       case "g":
-        var guitar1 = new Audio("sounds/guitar1.wav");
+        var guitar1 = new Audio("guitar1.wav");
         guitar1.play();
         break;
   
       case "h":
-        var guitar2 = new Audio("sounds/guitar2.wav");
+        var guitar2 = new Audio("guitar2.wav");
         guitar2.play();
         break;
   
       case "i":
-        var guitar3 = new Audio('sounds/guitar3.wav');
+        var guitar3 = new Audio('guitar3.wav');
         guitar3.play();
         break;
   
       case "e":
-        var guitar4 = new Audio('sounds/guitar4.wav');
+        var guitar4 = new Audio('guitar4.wav');
         guitar4.play();
         break;
   
       case "f":
-        var guitar5 = new Audio('sounds/guitar5.wav');
+        var guitar5 = new Audio('guitar5.wav');
         guitar5.play();
         break;
   
       case "n":
-        var flute = new Audio('sounds/flute.wav');
+        var flute = new Audio('flute.wav');
         flute.play();
         break;
   
       case "u":
-        var chbell = new Audio('sounds/chbell.wav');
+        var chbell = new Audio('chbell.wav');
         chbell.play();
         break; 
         
         case "c":
-          var thriller = new Audio('sounds/thriller.mp3');
+          var thriller = new Audio('thriller.mp3');
           thriller.play();
           break;
     
         case "v":
-          var tone = new Audio('sounds/tone.mp3');
+          var tone = new Audio('tone.mp3');
           tone.play();
           break;
     
         case "b":
-          var clt = new Audio('sounds/clocktick.mp3');
+          var clt = new Audio('clocktick.mp3');
           clt.play();
           break;
     
         case "m":
-          var crash = new Audio('sounds/crash.mp3');
+          var crash = new Audio('crash.mp3');
           crash.play();
           break;
     
         case "x":
-          var drum = new Audio('sounds/drum.wav');
+          var drum = new Audio('drum.wav');
           drum.play();
           break;    
 
